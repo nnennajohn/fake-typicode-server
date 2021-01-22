@@ -10,5 +10,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    {
+      "id": "ghost-whey-x-chips-ahoy",
+      "name": "Ghost Whey X Chips Ahoy",
+      "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
+      "price": "$39.99",
+      "image": "https://cdn.shopify.com/s/files/1/0004/3470/0319/products/bulletproof-collagen-protein-unflavored-tub-3-pack-17-6-oz-1200x1200-af_3ec0b6d5-d1d0-430d-b341-8c21eec0be48_800x.jpg?v=1603944333"
+    },
+    {
+      "id": "ghost-whey-vegan",
+      "name": "GHOST® Bullet Proof Collagen Vegan Protein",
+      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+      "price": "$49.99",
+      "image": "https://cdn.shopify.com/s/files/1/0004/3470/0319/products/bulletproof-collagen-protein-chocolate-tub-42-3-oz-1200x1200-af_1_800x.jpg?v=1607121026"
+    }
+  ]
 }
